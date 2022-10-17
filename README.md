@@ -1,5 +1,9 @@
 # AOE2 Taunt mod for Factorio
 
-When in game open up the chat and enter a number between 1-42.
-The corresponding taunt from the original 'Age of Empires 2' will play.
+Adds 'Age of Empires 2' chat taunt capability to Factorio.
+When typing a number in chat the corresponding taunt will play.
+e.g typing "1" in chat will play the sound "Yes"
+If you are a fan of AOE2 you will know.
+Works best if you turn off the Factorios in-game chat notification noise.
+Setting -> Interface -> uncheck 'Play sound for chat messages'
 
