@@ -1,0 +1,215 @@
+-- data.lua
+
+-- Taunt sound files
+data:extend({{
+	type="sound",
+	name="1",
+	filename="__AOE2Taunts__/sound_files/Yes.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="2",
+	filename="__AOE2Taunts__/sound_files/No.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="3",
+	filename="__AOE2Taunts__/sound_files/Food,_please.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="4",
+	filename="__AOE2Taunts__/sound_files/Wood,_please.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="5",
+	filename="__AOE2Taunts__/sound_files/Gold,_please.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="6",
+	filename="__AOE2Taunts__/sound_files/Stone,_please.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="7",
+	filename="__AOE2Taunts__/sound_files/Ahh.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="8",
+	filename="__AOE2Taunts__/sound_files/All_hail.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="9",
+	filename="__AOE2Taunts__/sound_files/Oooh.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="10",
+	filename="__AOE2Taunts__/sound_files/Back_to_age_one.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="11",
+	filename="__AOE2Taunts__/sound_files/Herb_laugh.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="12",
+	filename="__AOE2Taunts__/sound_files/Being_rushed.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="13",
+	filename="__AOE2Taunts__/sound_files/Blame_your_isp.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="14",
+	filename="__AOE2Taunts__/sound_files/Start_the_game.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="15",
+	filename="__AOE2Taunts__/sound_files/Don't_point_that_thing.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="16",
+	filename="__AOE2Taunts__/sound_files/Enemy_sighted.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="17",
+	filename="__AOE2Taunts__/sound_files/It_is_good.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="18",
+	filename="__AOE2Taunts__/sound_files/I_need_a_monk.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="19",
+	filename="__AOE2Taunts__/sound_files/Long_time_no_siege.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="20",
+	filename="__AOE2Taunts__/sound_files/My_granny.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="21",
+	filename="__AOE2Taunts__/sound_files/Nice_town_i'll_take_it.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="22",
+	filename="__AOE2Taunts__/sound_files/Quit_touchin.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="23",
+	filename="__AOE2Taunts__/sound_files/Raiding_party.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="24",
+	filename="__AOE2Taunts__/sound_files/Dadgum.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="25",
+	filename="__AOE2Taunts__/sound_files/Smite_me.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="26",
+	filename="__AOE2Taunts__/sound_files/The_wonder.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="27",
+	filename="__AOE2Taunts__/sound_files/You_play_two_hours.ogg",
+},{
+	type="sound",
+	name="28",
+	filename="__AOE2Taunts__/sound_files/You_should_see_the_other_guy.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="29",
+	filename="__AOE2Taunts__/sound_files/Roggan.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="30",
+	filename="__AOE2Taunts__/sound_files/Wololo.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="31",
+	filename="__AOE2Taunts__/sound_files/Attack_an_enemy_now.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="32",
+	filename="__AOE2Taunts__/sound_files/Cease_creating_extra_villagers.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="33",
+	filename="__AOE2Taunts__/sound_files/Create_extra_villagers.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="34",
+	filename="__AOE2Taunts__/sound_files/Build_a_navy.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="35",
+	filename="__AOE2Taunts__/sound_files/Stop_building_a_navy.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="36",
+	filename="__AOE2Taunts__/sound_files/Wait_for_my_signal_to_attack.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="37",
+	filename="__AOE2Taunts__/sound_files/Build_a_wonder.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="38",
+	filename="__AOE2Taunts__/sound_files/Give_me_your_extra_resources.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="39",
+	filename="__AOE2Taunts__/sound_files/Ally.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="40",
+	filename="__AOE2Taunts__/sound_files/Neutral.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="41",
+	filename="__AOE2Taunts__/sound_files/Enemy.ogg",
+	volume=1.0
+},{
+	type="sound",
+	name="42",
+	filename="__AOE2Taunts__/sound_files/What_age_are_you_in.ogg",
+	volume=1.0
+}
+})
+

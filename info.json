@@ -1,0 +1,16 @@
+{
+    "name": "AOE2Taunts",
+    "version": "1.1.4",
+    "title": "Age of Empires 2 Chat Taunts",
+    "author": "YuhBoiChin",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": 
+    "Adds 'Age of Empires 2' chat taunt capability to Factorio.\nWhen typing a number in chat the corresponding taunt will play. e.g typing '1' in chat will play the sound 'Yes' \nIf you are a fan of AOE2 you will know. \nWorks best if you turn off the Factorios in-game chat notification noise.\nSetting -> Interface -> uncheck 'Play sound for chat messages'"
+  }
+
+
+
+
+
+
